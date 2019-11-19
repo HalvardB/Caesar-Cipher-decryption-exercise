@@ -1,0 +1,1 @@
+Calculate a String of every other character starting with the first character of the encrypted String by calling halfOfString.
